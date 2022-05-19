@@ -1,0 +1,6 @@
+project: rnshah9/seqtk
+target: seqtk
+
+cmds:
+  - cmd: /repo/seqtk seq @@
+    filepath: /test.fq
