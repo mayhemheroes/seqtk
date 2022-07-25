@@ -2,5 +2,4 @@ project: seqtk
 target: seqtk
 
 cmds:
-  - cmd: /repo/seqtk seq /test.fq
-    filepath: /test.fq
+  - cmd: /seqtk seq @@
